@@ -1,0 +1,20 @@
+一、Android maven的导入问题
+    maven { url 'https://maven.aliyun.com/repository/public' }
+
+    maven { url 'https://maven.aliyun.com/repository/central' }
+
+    maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+  
+    maven { url 'https://maven.aliyun.com/repository/google' }
+
+    maven { url 'https://maven.aliyun.com/repository/jcenter' }
+
+    maven { url 'https://dl.google.com/dl/android/maven2/' }
+
+二、gradle 文件下载问题解决
+    https://mirrors.cloud.tencent.com/gradle/
+    https\://mirrors.cloud.tencent.com/gradle/
+
+    官方: https://services.gradle.org/distributions/
+    腾讯: https://mirrors.cloud.tencent.com/gradle/
+    阿里: https://mirrors.aliyun.com/macports/distfiles/gradle/
